@@ -1,5 +1,7 @@
 # Puppeteer Cluster
 
+> ⚠ This is a fork of [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster), with changes from [zhaow-de/puppeteer-cluster](https://github.com/zhaow-de/puppeteer-cluster), and updated to puppeteer 10.
+
 [![Build Status](https://api.travis-ci.org/thomasdondorf/puppeteer-cluster.svg?branch=master)](https://travis-ci.org/thomasdondorf/puppeteer-cluster)
 [![npm](https://badgen.now.sh/npm/v/puppeteer-cluster)](https://www.npmjs.com/package/puppeteer-cluster)
 [![Coverage Status](https://coveralls.io/repos/github/thomasdondorf/puppeteer-cluster/badge.svg?branch=master)](https://coveralls.io/github/thomasdondorf/puppeteer-cluster?branch=master)
