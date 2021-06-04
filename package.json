@@ -1,6 +1,6 @@
 {
-  "name": "@zhaow-de/puppeteer-cluster",
-  "version": "0.26.0",
+  "name": "@jdanyow/puppeteer-cluster",
+  "version": "0.1.0",
   "description": "Cluster management for puppeteer",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,9 +13,9 @@
   "author": "Thomas Dondorf",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhaow-de/puppeteer-cluster.git"
+    "url": "https://github.com/jdanyow/puppeteer-cluster.git"
   },
-  "homepage": "https://github.com/zhaow-de/puppeteer-cluster",
+  "homepage": "https://github.com/jdanyow/puppeteer-cluster",
   "keywords": [
     "puppeteer",
     "cluster",
@@ -26,7 +26,7 @@
     "debug": "^4.3.1"
   },
   "peerDependencies": {
-    "puppeteer": "^8.0.0"
+    "puppeteer": "^10.0.0"
   },
   "devDependencies": {
     "@types/debug": "^4.1.5",
